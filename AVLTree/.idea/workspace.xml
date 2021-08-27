@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a71cc912-300d-4c7e-8bd6-591d889c69cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bwGhyiapldijBJwrSGjjCzcVX8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="AVLTree" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a71cc912-300d-4c7e-8bd6-591d889c69cb" name="Default Changelist" comment="" />
+      <created>1589535866301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589535866301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1589535983000">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="445" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1589535983000" />
+    <state width="1279" height="183" key="GridCell.Tab.0.bottom" timestamp="1589540020363">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1279" height="183" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1589540020363" />
+    <state width="1279" height="183" key="GridCell.Tab.0.center" timestamp="1589540020363">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1279" height="183" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1589540020363" />
+    <state width="1279" height="183" key="GridCell.Tab.0.left" timestamp="1589540020363">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1279" height="183" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1589540020363" />
+    <state width="1279" height="183" key="GridCell.Tab.0.right" timestamp="1589540020363">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1279" height="183" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1589540020363" />
+    <state x="141" y="2" key="SettingsEditor" timestamp="1589557821910">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="141" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1589557821910" />
+  </component>
+</project>
